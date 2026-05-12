@@ -61,6 +61,7 @@ credit-risk-prediction-ml/
 ├── requirements.txt
 ```
 
+⚙️ Como executar
 ```bash
 git clone URL_DO_REPO
 cd credit-risk-prediction-ml
